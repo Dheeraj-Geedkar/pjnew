@@ -72,7 +72,7 @@ nav .header_right .algos {
   -ms-grid-columns: (16.66667%)[6];          
       grid-template-columns: repeat(1, 10.66667%);
   place-content: center;
-  padding: 2% 0%;
+  padding : 2% 0%;
 }
 
 nav .header_right .algos button {
@@ -182,9 +182,3 @@ section #Info_Cont2 h3 {
 
 }
 */
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    *****************
-*/
-/*# sourceMappingURL=style.css.map */
